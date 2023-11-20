@@ -21,6 +21,8 @@ Lot of values were replace to better understand the visualization such as: chang
 
 
 ## Data Insights
+
+![Motot Dashboard](https://github.com/Ezerioha-ifeanyi/Motor-theft-analysis/blob/main/motor%20dashboard.png)
 - The total population is Five Million
 - The total number of stolen vehicle was 4527
 - Stationwagon happen to be the Vehicle type often stolen
